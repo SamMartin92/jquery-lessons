@@ -1,0 +1,23 @@
+{
+  "name": "jquery-lessons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamMartin92/jquery-lessons.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamMartin92/jquery-lessons/issues"
+  },
+  "homepage": "https://github.com/SamMartin92/jquery-lessons#readme",
+  "devDependencies": {
+    "jest": "^28.1.0",
+    "jest-environment-jsdom": "^28.1.0"
+  }
+}
